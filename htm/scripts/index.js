@@ -21,3 +21,4 @@ const HBR = [{
 document.querySelector("#nome").innerHTML = HBR[0].nome
 document.querySelector("#setor").innerHTML = HBR[0].setor
 document.querySelector("#tel").innerHTML = HBR[0].tel
+document.querySelector("#email").innerHTML = HBR[0].email
