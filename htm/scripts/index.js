@@ -1,32 +1,23 @@
 const HBR = [{
-        nome: 'gabriel tijon',
-        cargo: 'tecnologia',
-        tel: '(11) 4880-8147'
+        nome: "Gabriel Tijon da Silva",
+        setor: 'Tecnologia',
+        tel: '(11) 4880-8147',
+        email: 'gabriel.silva@hbraviacao.com.br'
     },
     {
-        nome: 'caique gonsalves',
-        cargo: 'tecnologia',
-        tel: '(11) 4880-8147'
+        nome: 'Caique Gonçalves',
+        setor: 'tecnologia',
+        tel: '(11) 4880-8147',
+        email: 'caique.goncalves@hbraviacao.com.br'
     },
     {
-        nome: 'thamires gobli',
-        cargo: 'tecnologia',
-        tel: '(11) 4880-8147'
+        nome: 'Thamirys Gobbi',
+        setor: 'tecnologia',
+        tel: '(11) 4880-8147',
+        email: 'thamirys.gobbi@hbraviacao.com.br'
     }
 
 ]
-
-// function gerar() {
-//     let nomes = [
-//         "Diego",
-//         "Gabriel",
-//         "Lucas"
-//     ];
-
-//     let lista = document.getElementById('lista');
-//     for (let i = 0; i < nomes.length; i++) {
-//         let item = document.createElement('h1');
-//         item.(document.createTextNode(nomes[0]));
-//         lista.addEventListener(item);
-//     }
-// }
+document.querySelector("#nome").innerHTML = HBR[0].nome
+document.querySelector("#setor").innerHTML = HBR[0].setor
+document.querySelector("#tel").innerHTML = HBR[0].tel
