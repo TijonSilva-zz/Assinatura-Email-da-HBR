@@ -1,5 +1,4 @@
-const HBR = [
-        {
+const HBR = [{
             nome: "Alexandre Dobarco",
             setor: "Comercial Célula",
             ramal: "4880-8202",
@@ -134,7 +133,7 @@ const HBR = [
             email: "vitor.martins@hbraviacao.com.br"
         },
 
-        
+
         {
             /* 17*/
             nome: "Renato Brandão",
@@ -249,10 +248,10 @@ const HBR = [
 
         {
             /* 31*/
-            nome: "",
+            nome: "Adriana Canuto",
             setor: "",
             ramal: "",
-            email: "@hbraviacao.com.br"
+            email: "adriana.canuto@hbraviacao.com.br"
         },
 
         {
@@ -301,208 +300,670 @@ const HBR = [
             setor: "Inspetoria",
             ramal: "4880-8293",
             email: "mauricio.silva@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 38*/
             nome: "Elias Ferreira",
             setor: "Inspetoria",
             ramal: "4880-8295",
             email: "elias.ferreira@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 39*/
             nome: "Guilherme Campos",
             setor: "Logística",
             ramal: "4880-8062",
             email: "guilherme.campos@hbraviacao.com.br"
-            },
+        },
 
-            
-            {
+
+        {
             /* 40*/
             nome: "Daniela Stewart",
             setor: "Marketing",
             ramal: "4880-8083",
             email: "daniela.stewart@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 41*/
             nome: "Fernando Cavalcante",
             setor: "Metrologia",
             ramal: "4880-8251",
             email: "fernando.cavalcante@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 42*/
             nome: "João Oliveira",
             setor: "Operações",
             ramal: "4880-8240",
             email: "joao.oliveira@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 43*/
             nome: "Marcos Alba",
             setor: "Operações",
             ramal: "4880-8090",
             email: "marcos.alba@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 44*/
             nome: "Hugo Selmini",
             setor: "Predial",
             ramal: "4880-8054",
             email: "hugo.selmini@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 45*/
             nome: "Renato Kenji",
             setor: "Qualidade",
             ramal: "4880-8222",
             email: "renato.kenji@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 46*/
             nome: "Danielle Cenedese",
             setor: "Qualidade",
             ramal: "4880-8057",
             email: "danielle.cenedese@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 47*/
             nome: "Gabriel Aposto",
             setor: "Recebimento",
             ramal: "4880-8271",
             email: "gabriel.aposto@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 48*/
             nome: "Sarah Maria",
             setor: "Inspeção Final",
             ramal: "4880-8197",
             email: "sarah.maria@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 49*/
             nome: "Vanessa Lopes",
             setor: "Academia",
             ramal: "4880-8002",
             email: "vanessa.lopez@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 50*/
             nome: "Rayani Ossiama",
             setor: "Recepção",
             ramal: "4880-8000",
             email: "rayani.ossiama@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 51*/
             nome: "Regiane Ribeiro",
             setor: "DP",
             ramal: "4880-8206",
             email: "regiane.ribeiro@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 52*/
             nome: "Viviane Medeiros",
             setor: "DP",
             ramal: "4880-8159",
             email: "viviane.medeiros@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 53*/
             nome: "Jose Maver",
             setor: "DP",
             ramal: "4880-8158",
             email: "jose.maver@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 54*/
             nome: "Mario Andrade",
             setor: "Salvatagem",
             ramal: "4880-8276",
             email: "mario.andrade@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 55*/
             nome: "William Peterson",
             setor: "Salvatagem",
             ramal: "4880-8276",
             email: "william.peterson@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 56*/
             nome: "Ivanete Rodrigues",
             setor: "Secretaria",
             ramal: "4880-8130",
             email: "ivanete.rodrigues@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 57*/
-            nome: "Gabriel Silva",
+            nome: "Gabriel Tijon Silva",
             setor: "Tecnologia",
             ramal: "4880-8147",
             email: "gabriel.silva@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 58*/
             nome: "Thamirys Gobbi",
             setor: "Tecnologia",
             ramal: "4880-8147",
             email: "thamirys.gobbi@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 59*/
             nome: "Caique Gonçalves",
             setor: "Tecnologia",
             ramal: "4880-8147",
             email: "caique.goncalves@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 60*/
             nome: "Eduardo Fleury",
             setor: "Tecnologia",
             ramal: "4880-8151",
             email: "eduardo.fleury@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
             /* 61*/
             nome: "Juan Nunes",
             setor: "Tesouraria",
             ramal: "4880-8027",
             email: "juan.nunes@hbraviacao.com.br"
-            },
+        },
 
-            {
+        {
+            /* */
+            nome: "Adriano Marte ",
+            setor: "FMA",
+            ramal: "",
+            email: "adriano.marte@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Ailton Stocco",
+            setor: "",
+            ramal: "",
+            email: "ailton.stocco@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Alessandro Machado",
+            setor: "",
+            ramal: "",
+            email: "alessandro.machado@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Alex Maviael",
+            setor: "",
+            ramal: "",
+            email: "alex.maviael@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Alexandre Leardini",
+            setor: "",
+            ramal: "",
+            email: "alexandre.leardini@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Allan Serafim",
+            setor: "",
+            ramal: "",
+            email: "allan.serafim@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Ana Caroline",
+            setor: "",
+            ramal: "",
+            email: "ana.caroline@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Andre Marcelino",
+            setor: "",
+            ramal: "",
+            email: "andre.marcelino@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Andressa Guimarães",
+            setor: "",
+            ramal: "",
+            email: "andressa.guimaraes@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Bruno Costa",
+            setor: "",
+            ramal: "",
+            email: "bruno.costa@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Carlos Alberto",
+            setor: "",
+            ramal: "",
+            email: "carlos.alberto@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Carlos Augusto",
+            setor: "",
+            ramal: "",
+            email: "carlos.augusto@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Carlos Takikame",
+            setor: "Engenharia",
+            ramal: "",
+            email: "carlos.takikame@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Cesar Parizotto",
+            setor: "",
+            ramal: "",
+            email: "cesar.parizotto@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Daniel Coelho",
+            setor: "",
+            ramal: "",
+            email: "daniel.coelho@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Denis Guimarães",
+            setor: "",
+            ramal: "",
+            email: "denis.guimaraes@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Douglas Rocha",
+            setor: "",
+            ramal: "",
+            email: "douglas.rocha@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Edom Junior",
+            setor: "",
+            ramal: "",
+            email: "edom.junior@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Eduardo Augusto",
+            setor: "",
+            ramal: "",
+            email: "eduardo.augusto@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Elisangela Dias",
+            setor: "",
+            ramal: "",
+            email: "elisangela.dias@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Elnatã Sampaio",
+            setor: "",
+            ramal: "",
+            email: "elnata.sampaio@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Felipe Fernandes",
+            setor: "",
+            ramal: "",
+            email: "felipe.fernandes@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Felipe Paiato",
+            setor: "",
+            ramal: "",
+            email: "felipe.paiato@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Fernando Tamio",
+            setor: "",
+            ramal: "",
+            email: "fernando.tamio@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Galdivia Sousa",
+            setor: "",
+            ramal: "",
+            email: "galdivia.sousa@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Geisa Furtado",
+            setor: "",
+            ramal: "",
+            email: "geisa.furtado@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Guilherme Baptista",
+            setor: "",
+            ramal: "",
+            email: "guilherme.baptista@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Guilherme Barbosa",
+            setor: "",
+            ramal: "",
+            email: "guilherme.barbosa@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "Gustavo Benatti",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "Henrique Machado",
+            setor: "",
+            ramal: "",
+            email: "henrique.machado@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: ""
+        },
+        {
             /* */
             nome: "",
             setor: "",
             ramal: "",
             email: "@hbraviacao.com.br"
-            },
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: "@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: "@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: "@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: "@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: "@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: "@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: "@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: "@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: "@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: "@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: "@hbraviacao.com.br"
+        },
+        {
+            /* */
+            nome: "",
+            setor: "",
+            ramal: "",
+            email: "@hbraviacao.com.br"
+        },
 
     ]
     // document.querySelector("#nome").innerHTML = HBR[].nome
