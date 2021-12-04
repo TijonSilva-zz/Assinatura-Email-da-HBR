@@ -707,7 +707,7 @@ const HBR = [{
     },
     {
         /* 92*/
-        nome: "Henrique Rieche",
+        nome: "Henrique Riechel",
         setor: "",
         ramal: "",
         email: "henrique.riechel@hbraviacao.com.br"
