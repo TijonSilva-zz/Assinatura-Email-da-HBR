@@ -1206,4 +1206,4 @@ const HBR = [{
 
 /*function js*/
 
-document.querySelector("#nome").innerHTML = HBR[22].nome + "<br>" + HBR[22].setor + "<br>" + HBR[22].ramal + "<br>" + HBR[22].email
+document.querySelector("#user").innerHTML = HBR[57].nome + "<br>" + HBR[57].setor + "<br>" + HBR[57].ramal + "<br>" + HBR[57].email
