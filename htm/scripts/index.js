@@ -1,7 +1,7 @@
 const HBR = [{
         nome: "Alexandre Dobarco",
         setor: "Comercial Célula",
-        ramal: "4880-8202",
+        ramal: "(11) 4880-8202",
         email: "alexandre.dobarco@hbraviacao.com.br"
     },
 
@@ -9,7 +9,7 @@ const HBR = [{
         /* 1*/
         nome: "Alex Silva",
         setor: "Comercial Célula",
-        ramal: "4880-8084",
+        ramal: "(11) 4880-8084",
         email: "alex.silva@hbraviacao.com.br"
     },
 
@@ -17,7 +17,7 @@ const HBR = [{
         /* 2*/
         nome: "Jefferson Carvalho",
         setor: "Comercial Célula",
-        ramal: "4880-8024",
+        ramal: "(11) 4880-8024",
         email: "jefferson.carvalho@hbraviacao.com.br"
     },
 
@@ -25,7 +25,7 @@ const HBR = [{
         /* 3*/
         nome: "Manoela Sousa",
         setor: "Comercial Célula",
-        ramal: "4880-8219",
+        ramal: "(11) 4880-8219",
         email: "manoela.sousa@hbraviacao.com.br"
     },
 
@@ -33,7 +33,7 @@ const HBR = [{
         /* 4*/
         nome: "Roberto Pagano",
         setor: "Comercial Célula",
-        ramal: "4880-8303",
+        ramal: "(11) 4880-8303",
         email: "roberto.pagano@hbraviacao.com.br"
     },
 
@@ -41,7 +41,7 @@ const HBR = [{
         /* 5*/
         nome: "Hamilton Carvalho",
         setor: "Comercial Célula",
-        ramal: "4880-8205",
+        ramal: "(11) 4880-8205",
         email: "hamiltom.carvalho@hbraviacao.com.br"
     },
 
@@ -49,7 +49,7 @@ const HBR = [{
         /* 6*/
         nome: "Diego Avellar",
         setor: "Comercial motor",
-        ramal: "4880-8292",
+        ramal: "(11) 4880-8292",
         email: "diego.avellar@hbraviacao.com.br"
     },
 
@@ -57,7 +57,7 @@ const HBR = [{
         /* 7*/
         nome: "Alex Rocha",
         setor: "Comercial Acessórios",
-        ramal: "4880-8128",
+        ramal: "(11) 4880-8128",
         email: "alex.rocha@hbraviacao.com.br"
     },
 
@@ -65,7 +65,7 @@ const HBR = [{
         /* 8*/
         nome: "Fabiano Carrilho",
         setor: "Comercial Acessórios",
-        ramal: "4880-8125",
+        ramal: "(11) 4880-8125",
         email: "fabiano.carrilho@hbraviacao.com.br"
     },
 
@@ -73,7 +73,7 @@ const HBR = [{
         /* 9*/
         nome: "Henrique Machado",
         setor: "Comercial Acessórios",
-        ramal: "4880-8087",
+        ramal: "(11) 4880-8087",
         email: "henrique.machado@hbraviacao.com.br"
     },
 
@@ -81,7 +81,7 @@ const HBR = [{
         /* 10*/
         nome: "Priscila Ossiama",
         setor: "Comercial Acessórios",
-        ramal: "4880-8264",
+        ramal: "(11) 4880-8264",
         email: "priscila.ossiama@hbraviacao.com.br"
     },
 
@@ -89,7 +89,7 @@ const HBR = [{
         /* 11*/
         nome: "Pedro Zavan",
         setor: "Comercial Acessórios",
-        ramal: "4880-8036",
+        ramal: "(11) 4880-8036",
         email: "pedro.zavan@hbraviacao.com.br"
     },
 
@@ -97,7 +97,7 @@ const HBR = [{
         /* 12*/
         nome: "Eduardo Pina",
         setor: "Comercial Acessórios",
-        ramal: "4880-8037",
+        ramal: "(11) 4880-8037",
         email: "eduardo.pina@hbraviacao.com.br"
     },
 
@@ -113,7 +113,7 @@ const HBR = [{
         /* 14*/
         nome: "Lilian Neme",
         setor: "Compras",
-        ramal: "4880-8168",
+        ramal: "(11) 4880-8168",
         email: "lilian.neme@hbraviacao.com.br"
     },
 
@@ -121,7 +121,7 @@ const HBR = [{
         /* 15*/
         nome: "Vitória Araujo",
         setor: "Gerencia de Compras",
-        ramal: "4880-8088",
+        ramal: "(11) 4880-8088",
         email: "vitoria.araujo@hbraviacao.com.br"
     },
 
@@ -129,7 +129,7 @@ const HBR = [{
         /* 16*/
         nome: "Vitor Martins",
         setor: "Compras",
-        ramal: "4880-8241",
+        ramal: "(11) 4880-8241",
         email: "vitor.martins@hbraviacao.com.br"
     },
 
@@ -138,7 +138,7 @@ const HBR = [{
         /* 17*/
         nome: "Renato Brandão",
         setor: "Contabilidade",
-        ramal: "4880-8169",
+        ramal: "(11) 4880-8169",
         email: "renato.brandao@hbraviacao.com.br"
     },
 
@@ -146,7 +146,7 @@ const HBR = [{
         /* 18*/
         nome: "Samuel Souza",
         setor: "Contabilidade",
-        ramal: "4880-8195",
+        ramal: "(11) 4880-8195",
         email: "samuel.souza@hbraviacao.com.br"
     },
 
@@ -154,7 +154,7 @@ const HBR = [{
         /* 19*/
         nome: "Andrea Bueno",
         setor: "Contas a Pagar",
-        ramal: "4880-8155",
+        ramal: "(11) 4880-8155",
         email: "andrea.bueno@hbraviacao.com.br"
     },
 
@@ -162,7 +162,7 @@ const HBR = [{
         /* 20*/
         nome: "Elias Oliveira",
         setor: "Controladoria",
-        ramal: "4880-8184",
+        ramal: "(11) 4880-8184",
         email: "elias.oliveira@hbraviacao.com.br"
     },
 
@@ -170,7 +170,7 @@ const HBR = [{
         /* 21*/
         nome: "Robson Neves",
         setor: "Controladoria Operacional",
-        ramal: "4880-8260",
+        ramal: "(11) 4880-8260",
         email: "robson.neves@hbraviacao.com.br"
     },
 
@@ -178,7 +178,7 @@ const HBR = [{
         /* 22*/
         nome: "Alan Aciole",
         setor: "Planejamento",
-        ramal: "4880-8138",
+        ramal: "(11) 4880-8138",
         email: "alan.aciole@hbraviacao.com.br"
     },
 
@@ -186,7 +186,7 @@ const HBR = [{
         /* 23*/
         nome: "Erick Matheus",
         setor: "SRM",
-        ramal: "4880-8261",
+        ramal: "(11) 4880-8261",
         email: "erick.matheus@hbraviacao.com.br"
     },
 
@@ -194,7 +194,7 @@ const HBR = [{
         /* 24*/
         nome: "Patricia Placido",
         setor: "CTM",
-        ramal: "4880-8266",
+        ramal: "(11) 4880-8266",
         email: "patricia.placido@hbraviacao.com.br"
     },
 
@@ -202,7 +202,7 @@ const HBR = [{
         /* 25*/
         nome: "David Barbosa",
         setor: "SRM",
-        ramal: "4880-8290",
+        ramal: "(11) 4880-8290",
         email: "david.barbosa@hbraviacao.com.br"
     },
 
@@ -210,7 +210,7 @@ const HBR = [{
         /* 26*/
         nome: "Orestes Mateus",
         setor: "Planejamento",
-        ramal: "4880-8221",
+        ramal: "(11) 4880-8221",
         email: "orestes.mateus@hbraviacao.com.br"
     },
 
@@ -218,7 +218,7 @@ const HBR = [{
         /* 27*/
         nome: "Eduardo Mardirossian",
         setor: "Diretoria de Operações",
-        ramal: "4880-8014",
+        ramal: "(11) 4880-8014",
         email: "eduardo.mardirossian@hbraviacao.com.br"
     },
 
@@ -226,7 +226,7 @@ const HBR = [{
         /* 28*/
         nome: "Oderlei Fabiano",
         setor: "Diretor Financeiro",
-        ramal: "4880-8145",
+        ramal: "(11) 4880-8145",
         email: "oderlei.fabiano@hbraviacao.com.br"
     },
 
@@ -234,7 +234,7 @@ const HBR = [{
         /* 29*/
         nome: "Marcelo Madruga",
         setor: "Diretoria",
-        ramal: "4880-8015",
+        ramal: "(11) 4880-8015",
         email: "marcelo.madruga@hbraviacao.com.br"
     },
 
@@ -242,7 +242,7 @@ const HBR = [{
         /* 30*/
         nome: "Elisabete Mendes",
         setor: "Engenharia",
-        ramal: "4880-8220",
+        ramal: "(11) 4880-8220",
         email: "elisabete.mendes@hbraviacao.com.br"
     },
 
@@ -258,7 +258,7 @@ const HBR = [{
         /* 32*/
         nome: "Andre Gentil",
         setor: "Estoque",
-        ramal: "4880-8263",
+        ramal: "(11) 4880-8263",
         email: "andre.gentil@hbraviacao.com.br"
     },
 
@@ -266,7 +266,7 @@ const HBR = [{
         /* 33*/
         nome: "Lúcia Takahashi",
         setor: "Farmácia",
-        ramal: "4880-8225",
+        ramal: "(11) 4880-8225",
         email: "lucia.takahashi@hbraviacao.com.br"
     },
 
@@ -274,7 +274,7 @@ const HBR = [{
         /* 34*/
         nome: "Elison Silva",
         setor: "FContas a Recebero",
-        ramal: "4880-8149",
+        ramal: "(11) 4880-8149",
         email: "elison.silva@hbraviacao.com.br"
     },
 
@@ -282,7 +282,7 @@ const HBR = [{
         /* 35*/
         nome: "Luiz Felipe",
         setor: "Fiscal",
-        ramal: "4880-8146",
+        ramal: "(11) 4880-8146",
         email: "luiz.felipe@hbraviacao.com.br"
     },
 
@@ -290,7 +290,7 @@ const HBR = [{
         /* 36*/
         nome: "Marilu Martins",
         setor: "Fiscal/CoPag/Paralegal",
-        ramal: "4880-8157",
+        ramal: "(11) 4880-8157",
         email: "marilu.martins@hbraviacao.com.br"
     },
 
@@ -298,7 +298,7 @@ const HBR = [{
         /* 37*/
         nome: "Mauricio Silva",
         setor: "Inspetoria",
-        ramal: "4880-8293",
+        ramal: "(11) 4880-8293",
         email: "mauricio.silva@hbraviacao.com.br"
     },
 
@@ -306,7 +306,7 @@ const HBR = [{
         /* 38*/
         nome: "Elias Ferreira",
         setor: "Inspetoria",
-        ramal: "4880-8295",
+        ramal: "(11) 4880-8295",
         email: "elias.ferreira@hbraviacao.com.br"
     },
 
@@ -314,7 +314,7 @@ const HBR = [{
         /* 39*/
         nome: "Guilherme Campos",
         setor: "Logística",
-        ramal: "4880-8062",
+        ramal: "(11) 4880-8062",
         email: "guilherme.campos@hbraviacao.com.br"
     },
 
@@ -323,7 +323,7 @@ const HBR = [{
         /* 40*/
         nome: "Daniela Stewart",
         setor: "Marketing",
-        ramal: "4880-8083",
+        ramal: "(11) 4880-8083",
         email: "daniela.stewart@hbraviacao.com.br"
     },
 
@@ -331,7 +331,7 @@ const HBR = [{
         /* 41*/
         nome: "Fernando Cavalcante",
         setor: "Metrologia",
-        ramal: "4880-8251",
+        ramal: "(11) 4880-8251",
         email: "fernando.cavalcante@hbraviacao.com.br"
     },
 
@@ -339,7 +339,7 @@ const HBR = [{
         /* 42*/
         nome: "João Oliveira",
         setor: "Pós-Vendas/Garantia RHC",
-        ramal: "4880-8240",
+        ramal: "(11) 4880-8240",
         email: "joao.oliveira@hbraviacao.com.br"
     },
 
@@ -347,7 +347,7 @@ const HBR = [{
         /* 43*/
         nome: "Marcos Alba",
         setor: "Operações",
-        ramal: "4880-8090",
+        ramal: "(11) 4880-8090",
         email: "marcos.alba@hbraviacao.com.br"
     },
 
@@ -355,7 +355,7 @@ const HBR = [{
         /* 44*/
         nome: "Hugo Selmini",
         setor: "Predial",
-        ramal: "4880-8054",
+        ramal: "(11) 4880-8054",
         email: "hugo.selmini@hbraviacao.com.br"
     },
 
@@ -363,7 +363,7 @@ const HBR = [{
         /* 45*/
         nome: "Renato Kenji",
         setor: "Gerência da Qualidade",
-        ramal: "4880-8222",
+        ramal: "(11) 4880-8222",
         email: "renato.kenji@hbraviacao.com.br"
     },
 
@@ -371,7 +371,7 @@ const HBR = [{
         /* 46*/
         nome: "Danielle Cenedese",
         setor: "Qualidade",
-        ramal: "4880-8057",
+        ramal: "(11) 4880-8057",
         email: "danielle.cenedese@hbraviacao.com.br"
     },
 
@@ -379,7 +379,7 @@ const HBR = [{
         /* 47*/
         nome: "Gabriel Aposto",
         setor: "Recebimento",
-        ramal: "4880-8271",
+        ramal: "(11) 4880-8271",
         email: "gabriel.aposto@hbraviacao.com.br"
     },
 
@@ -387,7 +387,7 @@ const HBR = [{
         /* 48*/
         nome: "Sarah Maria",
         setor: "Qualidade",
-        ramal: "4880-8197",
+        ramal: "(11) 4880-8197",
         email: "sarah.maria@hbraviacao.com.br"
     },
 
@@ -395,7 +395,7 @@ const HBR = [{
         /* 49*/
         nome: "Vanessa Lopes",
         setor: "Academia",
-        ramal: "4880-8002",
+        ramal: "(11) 4880-8002",
         email: "vanessa.lopez@hbraviacao.com.br"
     },
 
@@ -403,7 +403,7 @@ const HBR = [{
         /* 50*/
         nome: "Rayani Ossiama",
         setor: "Recepção",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "rayani.ossiama@hbraviacao.com.br"
     },
 
@@ -411,7 +411,7 @@ const HBR = [{
         /* 51*/
         nome: "Regiane Ribeiro",
         setor: "DP",
-        ramal: "4880-8206",
+        ramal: "(11) 4880-8206",
         email: "regiane.ribeiro@hbraviacao.com.br"
     },
 
@@ -419,7 +419,7 @@ const HBR = [{
         /* 52*/
         nome: "Viviane Medeiros",
         setor: "DP",
-        ramal: "4880-8159",
+        ramal: "(11) 4880-8159",
         email: "viviane.medeiros@hbraviacao.com.br"
     },
 
@@ -427,7 +427,7 @@ const HBR = [{
         /* 53*/
         nome: "Jose Maver",
         setor: "DP",
-        ramal: "4880-8158",
+        ramal: "(11) 4880-8158",
         email: "jose.maver@hbraviacao.com.br"
     },
 
@@ -435,7 +435,7 @@ const HBR = [{
         /* 54*/
         nome: "Mario Andrade",
         setor: "Salvatagem",
-        ramal: "4880-8276",
+        ramal: "(11) 4880-8276",
         email: "mario.andrade@hbraviacao.com.br"
     },
 
@@ -443,7 +443,7 @@ const HBR = [{
         /* 55*/
         nome: "William Peterson",
         setor: "Salvatagem",
-        ramal: "4880-8276",
+        ramal: "(11) 4880-8276",
         email: "william.peterson@hbraviacao.com.br"
     },
 
@@ -451,7 +451,7 @@ const HBR = [{
         /* 56*/
         nome: "Ivanete Rodrigues",
         setor: "Secretaria",
-        ramal: "4880-8130",
+        ramal: "(11) 4880-8130",
         email: "ivanete.rodrigues@hbraviacao.com.br"
     },
 
@@ -459,7 +459,7 @@ const HBR = [{
         /* 57*/
         nome: "Gabriel Tijon Silva",
         setor: "Tecnologia",
-        ramal: "4880-8147",
+        ramal: "(11) 4880-8147",
         email: "gabriel.silva@hbraviacao.com.br"
     },
 
@@ -467,7 +467,7 @@ const HBR = [{
         /* 58*/
         nome: "Thamirys Gobbi",
         setor: "Tecnologia",
-        ramal: "4880-8147",
+        ramal: "(11) 4880-8147",
         email: "thamirys.gobbi@hbraviacao.com.br"
     },
 
@@ -475,7 +475,7 @@ const HBR = [{
         /* 59*/
         nome: "Caique Gonçalves",
         setor: "Tecnologia",
-        ramal: "4880-8147",
+        ramal: "(11) 4880-8147",
         email: "caique.goncalves@hbraviacao.com.br"
     },
 
@@ -483,7 +483,7 @@ const HBR = [{
         /* 60*/
         nome: "Eduardo Fleury",
         setor: "Tecnologia",
-        ramal: "4880-8151",
+        ramal: "(11) 4880-8151",
         email: "eduardo.fleury@hbraviacao.com.br"
     },
 
@@ -491,7 +491,7 @@ const HBR = [{
         /* 61*/
         nome: "Juan Nunes",
         setor: "Tesouraria",
-        ramal: "4880-8027",
+        ramal: "(11) 4880-8027",
         email: "juan.nunes@hbraviacao.com.br"
     },
     /*BASE DE DADOS DO OUTLOOK ABAIXO*/
@@ -499,14 +499,14 @@ const HBR = [{
         /* 62*/
         nome: "Adriano Marte ",
         setor: "FMA",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "adriano.marte@hbraviacao.com.br"
     },
     {
         /* 63*/
         nome: "Ailton Stocco",
         setor: "Verticalização",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "ailton.stocco@hbraviacao.com.br"
     },
     {
@@ -520,7 +520,7 @@ const HBR = [{
         /* 65*/
         nome: "Alex Maviael",
         setor: "Verticalização",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "alex.maviael@hbraviacao.com.br"
     },
     {
@@ -548,7 +548,7 @@ const HBR = [{
         /* 69*/
         nome: "Andre Marcelino",
         setor: "Inspetoria",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "andre.marcelino@hbraviacao.com.br"
     },
     {
@@ -576,14 +576,14 @@ const HBR = [{
         /* 73*/
         nome: "Carlos Augusto",
         setor: "inspetoria",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "carlos.augusto@hbraviacao.com.br"
     },
     {
         /* 74*/
         nome: "Carlos Takikame",
         setor: "Engenharia",
-        ramal: "4880-8250",
+        ramal: "(11) 4880-8250",
         email: "carlos.takikame@hbraviacao.com.br"
     },
     {
@@ -597,7 +597,7 @@ const HBR = [{
         /* 76*/
         nome: "Daniel Coelho",
         setor: "qualidade",
-        ramal: "4880-8086",
+        ramal: "(11) 4880-8086",
         email: "daniel.coelho@hbraviacao.com.br"
     },
     {
@@ -611,14 +611,14 @@ const HBR = [{
         /* 78*/
         nome: "Douglas Rocha",
         setor: "FMA",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "douglas.rocha@hbraviacao.com.br"
     },
     {
         /* 79*/
         nome: "Edom Junior",
         setor: "Logística",
-        ramal: "4880-8062",
+        ramal: "(11) 4880-8062",
         email: "edom.junior@hbraviacao.com.br"
     },
     {
@@ -632,7 +632,7 @@ const HBR = [{
         /* 81*/
         nome: "Elisangela Dias",
         setor: "Secretaria de Vendas",
-        ramal: "4880-80000",
+        ramal: "(11) 4880-80000",
         email: "elisangela.dias@hbraviacao.com.br"
     },
     {
@@ -653,14 +653,14 @@ const HBR = [{
         /* 84*/
         nome: "Felipe Paiato",
         setor: "Planejamento",
-        ramal: "4880-8058",
+        ramal: "(11) 4880-8058",
         email: "felipe.paiato@hbraviacao.com.br"
     },
     {
         /* 85*/
         nome: "Fernando Tamio",
         setor: "Inspetoria",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "fernando.tamio@hbraviacao.com.br"
     },
     {
@@ -681,28 +681,28 @@ const HBR = [{
         /* 88*/
         nome: "Guilherme Baptista",
         setor: "Estoque",
-        ramal: "4880-8085",
+        ramal: "(11) 4880-8085",
         email: "guilherme.baptista@hbraviacao.com.br"
     },
     {
         /* 89*/
         nome: "Guilherme Barbosa",
         setor: "Qualidade",
-        ramal: "4880-8137",
+        ramal: "(11) 4880-8137",
         email: "guilherme.barbosa@hbraviacao.com.br"
     },
     {
         /* 90*/
         nome: "Gustavo Benatti",
         setor: "Compras",
-        ramal: "4880-8004",
+        ramal: "(11) 4880-8004",
         email: "gustavo.benatti@hbraviacao.com.br"
     },
     {
         /* 91*/
         nome: "Henrique Lima",
         setor: "Compras",
-        ramal: "4880-8088",
+        ramal: "(11) 4880-8088",
         email: "henrique.lima@hbraviacao.com.br"
     },
     {
@@ -716,7 +716,7 @@ const HBR = [{
         /* 93*/
         nome: "Herbert Silva",
         setor: "Fiscal",
-        ramal: "4880-8155",
+        ramal: "(11) 4880-8155",
         email: "herbert.silva@hbraviacao.com.br"
     },
     {
@@ -744,7 +744,7 @@ const HBR = [{
         /* 97*/
         nome: "Jade Farhud",
         setor: "Programação",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "jade.farhud@hbraviacao.com.br"
     },
     {
@@ -758,21 +758,21 @@ const HBR = [{
         /* 99*/
         nome: "Jéssica Aguiar",
         setor: "Programação",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "jessica.aguiar@hbraviacao.com.br"
     },
     {
         /* 100*/
         nome: "João Silva",
         setor: "Recebimento",
-        ramal: "4880-8059",
+        ramal: "(11) 4880-8059",
         email: "joao.silva@hbraviacao.com.br"
     },
     {
         /* 101*/
         nome: "João Venturini",
         setor: "Estoque",
-        ramal: "4880-8085",
+        ramal: "(11) 4880-8085",
         email: "joao.venturini@hbraviacao.com.br"
     },
     {
@@ -786,7 +786,7 @@ const HBR = [{
         /* 103*/
         nome: "Julia Aguiar",
         setor: "Programação",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "julia.aguiar@hbraviacao.com.br"
     },
     {
@@ -828,7 +828,7 @@ const HBR = [{
         /* 109*/
         nome: "Luana Silva",
         setor: "Compras",
-        ramal: "4880-8004",
+        ramal: "(11) 4880-8004",
         email: "luana.silva@hbraviacao.com.br"
     },
     {
@@ -842,7 +842,7 @@ const HBR = [{
         /* 111*/
         nome: "Lucia Takahashi",
         setor: "Farmaácia",
-        ramal: "4880-8225",
+        ramal: "(11) 4880-8225",
         email: "lucia.takahashi@hbraviacao.com.br"
     },
     {
@@ -863,14 +863,14 @@ const HBR = [{
         /* 114*/
         nome: "Luiz Glaucio",
         setor: "Verticalização",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "luiz.glaucio@hbraviacao.com.br"
     },
     {
         /* 115*/
         nome: "Manoela Souza",
         setor: "Qualidade",
-        ramal: "4880-8058",
+        ramal: "(11) 4880-8058",
         email: "manoela.souza@hbraviacao.com.br"
     },
     {
@@ -884,7 +884,7 @@ const HBR = [{
         /* 117*/
         nome: "Marcelo Vianna",
         setor: "Planejamento",
-        ramal: "4880-8221",
+        ramal: "(11) 4880-8221",
         email: "marcelo.vianna@hbraviacao.com.br"
     },
     {
@@ -905,7 +905,7 @@ const HBR = [{
         /* 120*/
         nome: "Marco Silva",
         setor: "Verticalização",
-        ramal: "4880-0000",
+        ramal: "(11) 4880-0000",
         email: "marco.silva@hbraviacao.com.br"
     },
     {
@@ -940,21 +940,21 @@ const HBR = [{
         /* 125*/
         nome: "Matheus Nogueira",
         setor: "Compras",
-        ramal: "4880-8004",
+        ramal: "(11) 4880-8004",
         email: "matheus.nogueira@hbraviacao.com.br"
     },
     {
         /* 126*/
         nome: "Menothe Violim",
         setor: "Pintura",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "menothe.violim@hbraviacao.com.br"
     },
     {
         /* 127*/
         nome: "Messias Melo",
         setor: "Responsável Técnico",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "messias.melo@hbraviacao.com.br"
     },
     {
@@ -968,14 +968,14 @@ const HBR = [{
         /* 129*/
         nome: "Nágila Brito",
         setor: "Acessórios",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "nagila.brito@hbraviacao.com.br"
     },
     {
         /* 130*/
         nome: "Nelson José",
         setor: "Ferramentaria",
-        ramal: "48808250",
+        ramal: "(11) 48808250",
         email: "nelson.jose@hbraviacao.com.br"
     },
     {
@@ -989,35 +989,35 @@ const HBR = [{
         /* 132*/
         nome: "Otavio Bueno",
         setor: "Compras",
-        ramal: "4880-8088",
+        ramal: "(11) 4880-8088",
         email: "otavio.bueno@hbraviacao.com.br"
     },
     {
         /* 133*/
         nome: "Patricia Morais",
         setor: "Comercial oficina",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "patricia.morais@hbraviacao.com.br"
     },
     {
         /* 134*/
         nome: "Paulo Cesar",
         setor: "Inspetoria",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "paulo.cesar@hbraviacao.com.br"
     },
     {
         /* 135*/
         nome: "Paulo Tieres",
         setor: "Responsável Técnico",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "paulo.tieres@hbraviacao.com.br"
     },
     {
         /* 136*/
         nome: "Pedro Queiroga",
         setor: "Sessão de Motores",
-        ramal: "4880-8250",
+        ramal: "(11) 4880-8250",
         email: "pedro.queiroga@hbraviacao.com.br"
     },
     {
@@ -1031,42 +1031,42 @@ const HBR = [{
         /* 138*/
         nome: "Pietro Mori",
         setor: "Compras",
-        ramal: "4880-8004",
+        ramal: "(11) 4880-8004",
         email: "pietro.mori@hbraviacao.com.br"
     },
     {
         /* 139*/
         nome: "Rachid Eddin",
         setor: "Programação",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "rachid.eddin@hbraviacao.com.br"
     },
     {
         /* 140*/
         nome: "Rafaella Silva",
         setor: "DP",
-        ramal: "4880-8206",
+        ramal: "(11) 4880-8206",
         email: "rafaella.silva@hbraviacao.com.br"
     },
     {
         /* 141*/
         nome: "Raphael Coscione",
         setor: "Inspetoria",
-        ramal: "4880-8294",
+        ramal: "(11) 4880-8294",
         email: "raphael.coscione@hbraviacao.com.br"
     },
     {
         /* 142*/
         nome: "Raphael Marzagão",
         setor: "planejamento",
-        ramal: "4880-8221",
+        ramal: "(11) 4880-8221",
         email: "raphael.marzagao@hbraviacao.com.br"
     },
     {
         /* 143*/
         nome: "Renato Morais",
         setor: "Inspetoria",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "renato.morais@hbraviacao.com.br"
     },
     {
@@ -1080,7 +1080,7 @@ const HBR = [{
         /* 145*/
         nome: "Ricardo Jesus",
         setor: "Inspetoria",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "ricardo.jesus@hbraviacao.com.br"
     },
     {
@@ -1101,7 +1101,7 @@ const HBR = [{
         /* 148*/
         nome: "Rodrigo Soldado",
         setor: "SRM",
-        ramal: "4880-8221",
+        ramal: "(11) 4880-8221",
         email: "rodrigo.soldado@hbraviacao.com.br"
     },
     {
@@ -1115,14 +1115,14 @@ const HBR = [{
         /* 150*/
         nome: "Rubens Luiz",
         setor: "Programação",
-        ramal: "4880-8024",
+        ramal: "(11) 4880-8024",
         email: "rubens.luiz@hbraviacao.com.br"
     },
     {
         /* 151*/
         nome: "Salvador Neto",
         setor: "Metrologia",
-        ramal: "4880-8250",
+        ramal: "(11) 4880-8250",
         email: "salvador.neto@hbraviacao.com.br"
     },
     {
@@ -1136,7 +1136,7 @@ const HBR = [{
         /* 153*/
         nome: "Silvia Santos",
         setor: "Comercial",
-        ramal: "4880-8219",
+        ramal: "(11) 4880-8219",
         email: "silvia.santos@hbraviacao.com.br"
     },
     {
@@ -1150,7 +1150,7 @@ const HBR = [{
         /* 155*/
         nome: "Thiago Furquim",
         setor: "Oficina",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "thiago.furquim@hbraviacao.com.br"
     },
     {
@@ -1164,7 +1164,7 @@ const HBR = [{
         /* 157*/
         nome: "Vanderlei Machado",
         setor: "Produção",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "vanderlei.machado@hbraviacao.com.br"
     },
     {
@@ -1185,28 +1185,25 @@ const HBR = [{
         /* 160*/
         nome: "William Lessa",
         setor: "Verticalizaçao",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "william.lessa@hbraviacao.com.br"
     },
     {
         /* 161*/
         nome: "Zenilton Alves",
         setor: "Inspetoria",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "zenilton.alves@hbraviacao.com.br"
     },
     {
         /* 162*/
         nome: "Romulo Dias",
         setor: "Inspetoria",
-        ramal: "4880-8000",
+        ramal: "(11) 4880-8000",
         email: "romulo.dias@hbraviacao.com.br"
     }
 ]
 
 /*function js*/
 
-document.querySelector("#nome").innerHTML = HBR[22].nome
-document.querySelector("#setor").innerHTML = HBR[22].setor
-document.querySelector("#tel").innerHTML = HBR[22].ramal
-document.querySelector("#email").innerHTML = HBR[22].email
+document.querySelector("#nome").innerHTML = HBR[22].nome + "<br>" + HBR[22].setor + "<br>" + HBR[22].ramal + "<br>" + HBR[22].email
