@@ -644,10 +644,10 @@ const HBR = [{
     },
     {
         /* 83*/
-        nome: "Felipe Fernandes",
-        setor: "",
-        ramal: "",
-        email: "felipe.fernandes@hbraviacao.com.br"
+        // nome: "Felipe Fernandes",
+        // setor: "",
+        // ramal: "",
+        // email: "felipe.fernandes@hbraviacao.com.br"
     },
     {
         /* 84*/
@@ -729,8 +729,8 @@ const HBR = [{
     {
         /* 95*/
         nome: "Hugo Estrada",
-        setor: "",
-        ramal: "",
+        setor: "Hidráulica",
+        ramal: "4880-8000",
         email: "hugo.estrada@hbraviacao.com.br"
     },
     {
@@ -778,8 +778,8 @@ const HBR = [{
     {
         /* 102*/
         nome: "José Maver",
-        setor: "",
-        ramal: "",
+        setor: "DP",
+        ramal: "4880-8158",
         email: "jose.maver@hbraviacao.com.br"
     },
     {
@@ -806,8 +806,8 @@ const HBR = [{
     {
         /* 106*/
         nome: "Kauany Ribeiro",
-        setor: "",
-        ramal: "",
+        setor: "Fiscal",
+        ramal: "4880-8000",
         email: "kauany.ribeiro@hbraviacao.com.br"
     },
     {
@@ -876,7 +876,7 @@ const HBR = [{
     {
         /* 116*/
         nome: "Marcelo Pedrosa ",
-        setor: "",
+        setor: "Motores",
         ramal: "",
         email: "marcelo.pedrosa@hbraviacao.com.br"
     },
@@ -960,8 +960,8 @@ const HBR = [{
     {
         /* 128*/
         nome: "Miqueias Gomes",
-        setor: "",
-        ramal: "",
+        setor: "Contas a Pagar",
+        ramal: "4880-8155",
         email: "miqueias.gomes@hbraviacao.com.br"
     },
     {
@@ -1093,8 +1093,8 @@ const HBR = [{
     {
         /* 147*/
         nome: "Roberto Pereira",
-        setor: "",
-        ramal: "",
+        setor: "Programação",
+        ramal: "4880-8000",
         email: "roberto.pereira@hbraviacao.com.br"
     },
     {
@@ -1128,8 +1128,8 @@ const HBR = [{
     {
         /* 152*/
         nome: "Sarah Brito",
-        setor: "",
-        ramal: "",
+        setor: "Contas a Receber",
+        ramal: "4880-8000",
         email: "sarah.brito@hbraviacao.com.br"
     },
     {
@@ -1206,4 +1206,4 @@ const HBR = [{
 
 /*function js*/
 
-document.querySelector("#user").innerHTML = HBR[57].nome + "<br>" + HBR[57].setor + "<br>" + HBR[57].ramal + "<br>" + HBR[57].email
+document.querySelector("#user").innerHTML = HBR[58].nome + "<br>" + HBR[58].setor + "<br>" + HBR[58].ramal + "<br>" + HBR[58].email
