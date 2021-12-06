@@ -249,7 +249,7 @@ const HBR = [{
     {
         /* 31*/
         nome: "Adriana Canuto",
-        setor: "",
+        setor: "Responsável Técnica",
         ramal: "",
         email: "adriana.canuto@hbraviacao.com.br"
     },
@@ -512,7 +512,7 @@ const HBR = [{
     {
         /* 64*/
         nome: "Alessandro Machado",
-        setor: "",
+        setor: "Pneumatica",
         ramal: "",
         email: "alessandro.machado@hbraviacao.com.br"
     },
@@ -540,8 +540,8 @@ const HBR = [{
     {
         /* 68*/
         nome: "Ana Caroline",
-        setor: "",
-        ramal: "",
+        setor: "Operações",
+        ramal: "4880-8000",
         email: "ana.caroline@hbraviacao.com.br"
     },
     {
@@ -554,14 +554,14 @@ const HBR = [{
     {
         /* 70*/
         nome: "Andressa Guimarães",
-        setor: "",
+        setor: "Administrativo",
         ramal: "",
         email: "andressa.guimaraes@hbraviacao.com.br"
     },
     {
         /* 71*/
         nome: "Bruno Costa",
-        setor: "",
+        setor: "Ferramentaria",
         ramal: "",
         email: "bruno.costa@hbraviacao.com.br"
     },
@@ -589,7 +589,7 @@ const HBR = [{
     {
         /* 75*/
         nome: "Cesar Parizotto",
-        setor: "",
+        setor: "Diretoria",
         ramal: "",
         email: "cesar.parizotto@hbraviacao.com.br"
     },
@@ -638,14 +638,14 @@ const HBR = [{
     {
         /* 82*/
         nome: "Elnatã Sampaio",
-        setor: "",
+        setor: "Suprimentos/Ferramentaria",
         ramal: "",
         email: "elnata.sampaio@hbraviacao.com.br"
     },
     {
         /* 83*/
         // nome: "Felipe Fernandes",
-        // setor: "",
+        // setor: "/",
         // ramal: "",
         // email: "felipe.fernandes@hbraviacao.com.br"
     },
@@ -666,14 +666,14 @@ const HBR = [{
     {
         /* 86*/
         nome: "Galdivia Sousa",
-        setor: "",
+        setor: "/",
         ramal: "",
         email: "galdivia.sousa@hbraviacao.com.br"
     },
     {
         /* 87*/
         nome: "Geisa Furtado",
-        setor: "",
+        setor: "SRM",
         ramal: "",
         email: "geisa.furtado@hbraviacao.com.br"
     },
@@ -708,7 +708,7 @@ const HBR = [{
     {
         /* 92*/
         nome: "Henrique Riechel",
-        setor: "",
+        setor: "SRM",
         ramal: "",
         email: "henrique.riechel@hbraviacao.com.br"
     },
@@ -736,7 +736,7 @@ const HBR = [{
     {
         /* 96*/
         nome: "Isaias Amorim",
-        setor: "",
+        setor: "Inspetoria",
         ramal: "",
         email: "isaias.amorim@hbraviacao.com.br"
     },
@@ -820,7 +820,7 @@ const HBR = [{
     {
         /* 108*/
         nome: "Lincoln Costa",
-        setor: "",
+        setor: "/",
         ramal: "",
         email: "lincoln.costa@hbraviacao.com.br"
     },
@@ -890,14 +890,14 @@ const HBR = [{
     {
         /* 118*/
         nome: "Marcio Martins",
-        setor: "",
+        setor: "Oxigênio",
         ramal: "",
         email: "marcio.martins@hbraviacao.com.br"
     },
     {
         /* 119*/
         nome: "Marco",
-        setor: "",
+        setor: "Diretoria",
         ramal: "",
         email: "marco@hbraviacao.com.br"
     },
@@ -911,7 +911,7 @@ const HBR = [{
     {
         /* 121*/
         nome: "Mario Andrade ",
-        setor: "",
+        setor: "Salvatagem",
         ramal: "",
         email: "mario.andrade@hbraviacao.com.br"
     },
@@ -925,14 +925,14 @@ const HBR = [{
     {
         /* 123*/
         nome: "Matheus Campaner",
-        setor: "",
+        setor: "Contas a Receber",
         ramal: "",
         email: "matheus.campaner@hbraviacao.com.br"
     },
     {
         /* 124*/
         nome: "Matheus Leal",
-        setor: "",
+        setor: "Recebimento",
         ramal: "",
         email: "matheus.leal@hbraviacao.com.br"
     },
