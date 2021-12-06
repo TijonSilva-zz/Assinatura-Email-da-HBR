@@ -1170,8 +1170,8 @@ const HBR = [{
     {
         /*158 */
         nome: "Victor Sandim ",
-        setor: "",
-        ramal: "",
+        setor: "Estoque",
+        ramal: "4880-8000",
         email: "victor.sandim@hbraviacao.com.br"
     },
     {
